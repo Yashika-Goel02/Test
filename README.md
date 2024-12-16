@@ -1,7 +1,7 @@
 
 # HR Analytical Dashboard
 
-### Dashboard Link : https://geuac-my.sharepoint.com/:u:/r/personal/21102061_geu_ac_in/Documents/HR%20Analytical.pbix?csf=1&web=1&e=1I4y5N
+### Dashboard Link : https://geuac-my.sharepoint.com/:u:/r/personal/21102061_geu_ac_in/Documents/HR.Analytical.pbix?csf=1&web=1&e=hQjYHR
 
 ## Problem Statement
 
